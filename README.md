@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Ahoy, I'm Aline.<br>This portfolio showcases my journey from <b>being an English teacher to transitioning into a full stack web development student</b>! <br> Here, you'll find projects, learning resources, and reflections on my progress.<br><br>Alô alô, sou a Aline!<br>Este portifólio mostra minha jornada como professora de inglês em transição para ser uma estudante de desenvolvimento web full stack! <br> Aqui, você encontrará projetos, recursos de aprendizado e reflexões sobre meu progresso.</p>
+<p align="left">Ahoy, I'm Aline.<br>This portfolio showcases my journey from <b>being an English teacher to transitioning into a full stack web development student</b>. <br> Here, you'll find projects, learning resources, and reflections on my progress.<br><br>Alô alô, sou a Aline!<br>Este portifólio mostra minha jornada como professora de inglês em transição para ser uma estudante de desenvolvimento web full stack. <br> Aqui, você encontrará projetos, recursos de aprendizado e reflexões sobre meu progresso.</p>
 
 ###
 
