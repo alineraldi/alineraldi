@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">🛸 In my free time, I... | No meu tempo livre, eu...</h3>
+<h3 align="left">🛸 In my free time, I... } No meu tempo livre, eu...</h3>
 
 ###
 
